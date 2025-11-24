@@ -22,6 +22,8 @@ ffmpeg -version
 
 ## 1️⃣ 放置脚本
 
+**[下载脚本](https://github.com/daishuge/downkyi-improvement/releases/download/v0.1/main.py)**
+
 将 `main.py` 放在你的下载根目录，例如：
 
 ```
