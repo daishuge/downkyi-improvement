@@ -1,7 +1,7 @@
 # 🍽️ 食用方法（Usage）
 
 下载器本体：
-👉 **[哔哩下载姬（DownKyi 改进版）](https://github.com/daishuge/downkyi-improvement)**
+👉 **[哔哩下载姬（DownKyi 改进版）](https://github.com/yaobiao131/downkyicore/releases)**
 
 ---
 
